@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tobias Schwoerer</title>
+    <link>https://schwoererresearch.org/post/</link>
+    <description>Recent content in Posts on Tobias Schwoerer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 09 Oct 2018 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://schwoererresearch.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Student project about Elodea entanglement on floatplanes</title>
+      <link>https://schwoererresearch.org/post/floatplane_cameras/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://schwoererresearch.org/post/floatplane_cameras/</guid>
+      <description>Under the guidance of UAA Computer Science Professor Dr. Frank Wittmer and myself and with a grant through the UAA&amp;rsquo;s Honor&amp;rsquo;s College, UAA student Devin Boyle is trying to better understand how floatplanes pick up the aquatic invasive plant Elodea spp.
+Elodea spp. (Elodea) is Alaska’s first submerged aquatic invasive plant. It was first discovered in urban parts of the state but is being introduced to remote water bodies by floatplanes such as Sucker and Alexander Lakes in the Mat-Su Borough.</description>
+    </item>
+    
+    <item>
+      <title>Data visualization using Alaska salmon data</title>
+      <link>https://schwoererresearch.org/post/example_data_visualization/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://schwoererresearch.org/post/example_data_visualization/</guid>
+      <description> Examples of data visualizations using Alaska salmon data Below are examples of data visualizations that we generated as part of the Alaska State of Salmon and People (SASAP Project)
+   </description>
+    </item>
+    
+  </channel>
+</rss>

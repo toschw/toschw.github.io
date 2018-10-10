@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tobias Schwoerer on Tobias Schwoerer</title>
+    <link>https://schwoererresearch.org/</link>
+    <description>Recent content in Tobias Schwoerer on Tobias Schwoerer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0800</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Student project about Elodea entanglement on floatplanes</title>
+      <link>https://schwoererresearch.org/post/floatplane_cameras/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://schwoererresearch.org/post/floatplane_cameras/</guid>
+      <description>&lt;p&gt;Under the guidance of UAA Computer Science Professor Dr. Frank Wittmer and myself and with a grant through the UAA&amp;rsquo;s Honor&amp;rsquo;s College, UAA student Devin Boyle is trying to better understand how floatplanes pick up the aquatic invasive plant &lt;em&gt;Elodea spp.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://schwoererresearch.org/img/Devin.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Elodea spp.&lt;/em&gt; (Elodea) is Alaska’s first submerged aquatic invasive plant. It was first discovered in urban parts of the state but is being introduced to remote water bodies by floatplanes such as Sucker and Alexander Lakes in the Mat-Su Borough. Once introduced, elodea threatens salmon and makes floatplane destinations inaccessible, affecting fisheries and tourism, both vital for Alaska’s economy.&lt;/p&gt;
+
+&lt;p&gt;With the generous support from Rust&amp;rsquo;s Flying Service Devin was able to install GoPro cameras on one of Rust&amp;rsquo;s floatplanes and was able to collect images of the plane&amp;rsquo;s rudder throughout its daily operation. Devin will now use the collected images to develop a machine learning algorithm trained to automatically detect Elodea and test the feasibility for a large scale big data application. Below are images from a recent test flight that shows the Elodea infestation in Sucker Lake (Mat-Su Borough) and a video of how even small fragments of Elodea can get transmitted via floatplanes.&lt;/p&gt;
+
+&lt;p&gt;Below is a video that shows how elodea gets entangled on the floats of a de Havilland Beaver taking off from Alexander Lake, Matanuska-Susitna Borough, Alaska.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/TNDwuiPvwSs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Human Dimensions of Aquatic Invasive Species in Alaska: Lessons Learned While Integrating Economics, Management and Biology to Incentivize Early Detection and Rapid Response</title>
+      <link>https://schwoererresearch.org/publication/elodealessonslearned/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://schwoererresearch.org/publication/elodealessonslearned/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aquatic invasive species risk management</title>
+      <link>https://schwoererresearch.org/project/elodea/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://schwoererresearch.org/project/elodea/</guid>
+      <description>&lt;p&gt;Effective management of Elodea across large geographic areas relies on detection of new infestations and predictions of its spread. Elodea’s increasing rate-of-spread, combined with limited detection resources, requires agencies to formalize and justify increasingly costly response actions. By better understanding elodea’s invasion processes, multi-agency response coordination can be improved to eradicate or suppress this and other economically damaging invasive aquatic plants. In collaboration with agencies, our research team consisting of Dr. Frank Witmer, Dr. Jen Schmidt (both UAA), Dr. Roman Dial (APU), and Dr. Catherine Jarnevich (USGS Fort Collins) will use existing research and data on elodea, fill knowledge gaps, and integrate available information to provide a comprehensive spatial, ecological, and economic decision support tool to predict spread, support monitoring, and optimize management.  We will explore the application of remote sensing (satellite images) to detect elodea presence (new infections) combined with a meta-population model of elodea movement (our model of floatplane and boat pathways) to predict risk of invasion for uninfected water bodies, and integrate the above within a probabilistic decision analysis that’s based on existing habitat suitability models. The proposed work is applicable to the broader response to aquatic invasive species (AIS) in Alaska and will enable agencies to prepare for new aquatic invaders.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data visualization using Alaska salmon data</title>
+      <link>https://schwoererresearch.org/post/example_data_visualization/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://schwoererresearch.org/post/example_data_visualization/</guid>
+      <description>
+
+&lt;h3 id=&#34;examples-of-data-visualizations-using-alaska-salmon-data&#34;&gt;Examples of data visualizations using Alaska salmon data&lt;/h3&gt;
+
+&lt;p&gt;Below are examples of data visualizations that we generated as part of the Alaska State of Salmon and People (SASAP Project)&lt;/p&gt;
+
+&lt;iframe src=&#34;https://shiny.iseralaska.org/earnings_flow/&#34; width=1300 height=1000&gt;&lt;/iframe&gt;
+
+&lt;iframe src=&#34;https://shiny.iseralaska.org/permit_migration/&#34; width=1300 height=1000&gt;&lt;/iframe&gt;
+
+&lt;iframe src=&#34;https://shiny.iseralaska.org/people_migration/&#34; width=1300 height=1000&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>State of Alaska Salmon and People</title>
+      <link>https://schwoererresearch.org/project/salmonstate/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://schwoererresearch.org/project/salmonstate/</guid>
+      <description>&lt;p&gt;Alaska’s wild salmon are essential to Alaska’s cultures and economies and reflect a long tradition of stewardship. However, shifts in climate patterns, access and equity concerns, and other pressures increasingly threaten Alaska salmon and the people who depend on them.The State of Alaska’s Salmon and People (SASAP) project &lt;a href=&#34;https://alaskasalmonandpeople.org/&#34; title=&#34;This link will get you to the SASAP website&#34; target=&#34;_blank&#34;&gt;State of Alaska’s Salmon and People (SASAP) project&lt;/a&gt;is a collaboration of researchers, cultural leaders, and others working to bring together integrated, accurate, and up-to-date information that will help to support better salmon decision-making.&lt;/p&gt;
+
+&lt;p&gt;SASAP’s mission is to create an equitable decision-making platform for all stakeholders by addressing data gaps in Alaska’s salmon system through information synthesis, collaboration and stakeholder engagement.&lt;/p&gt;
+
+&lt;p&gt;This project is led by the National Center for Ecological Analysis and Synthesis (NCEAS) at the University of California, Santa Barbara and Nautilus Impact Investing (NII) in Anchorage, Alaska. SASAP is collaborating with and engaging leading experts at the University of Alaska in Fairbanks and Anchorage, indigenous leaders, and specialists across resource sectors.&lt;/p&gt;
+
+&lt;p&gt;As part of this project, we showed interactive graphs for example for the number of permits that left or were received by residents and non-residents over time. Move your mouse over the graph to see permit movements across regions and time periods.&lt;/p&gt;
+
+&lt;iframe src=&#34;https://shiny.iseralaska.org/permit_migration/&#34; width=1300 height=1000&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page</title>
+      <link>https://schwoererresearch.org/tutorial/example/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://schwoererresearch.org/tutorial/example/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The value of whale watching to local communities in Baja, Mexico : A case study using applied economic rent theory</title>
+      <link>https://schwoererresearch.org/publication/naturebasedtourism/</link>
+      <pubDate>Sat, 08 Oct 2016 00:00:00 -0800</pubDate>
+      
+      <guid>https://schwoererresearch.org/publication/naturebasedtourism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invasive species management programs in Alaska: A survey of statewide expenditures, 2007 - 11</title>
+      <link>https://schwoererresearch.org/publication/managementexpenditures/</link>
+      <pubDate>Sun, 05 Oct 2014 00:00:00 -0800</pubDate>
+      
+      <guid>https://schwoererresearch.org/publication/managementexpenditures/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

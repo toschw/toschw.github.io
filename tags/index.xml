@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tobias Schwoerer</title>
+    <link>https://schwoererresearch.org/tags/</link>
+    <description>Recent content in Tags on Tobias Schwoerer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://schwoererresearch.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aquatic Invasive Species</title>
+      <link>https://schwoererresearch.org/tags/aquatic-invasive-species/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://schwoererresearch.org/tags/aquatic-invasive-species/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elodea</title>
+      <link>https://schwoererresearch.org/tags/elodea/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://schwoererresearch.org/tags/elodea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salmon</title>
+      <link>https://schwoererresearch.org/tags/salmon/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://schwoererresearch.org/tags/salmon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

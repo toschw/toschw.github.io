@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Salmon on Tobias Schwoerer</title>
+    <link>https://schwoererresearch.org/tags/salmon/</link>
+    <description>Recent content in Salmon on Tobias Schwoerer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 05 Oct 2018 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://schwoererresearch.org/tags/salmon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data visualization using Alaska salmon data</title>
+      <link>https://schwoererresearch.org/post/example_data_visualization/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://schwoererresearch.org/post/example_data_visualization/</guid>
+      <description> Examples of data visualizations using Alaska salmon data Below are examples of data visualizations that we generated as part of the Alaska State of Salmon and People (SASAP Project)
+   </description>
+    </item>
+    
+    <item>
+      <title>State of Alaska Salmon and People</title>
+      <link>https://schwoererresearch.org/project/salmonstate/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://schwoererresearch.org/project/salmonstate/</guid>
+      <description>Alaska’s wild salmon are essential to Alaska’s cultures and economies and reflect a long tradition of stewardship. However, shifts in climate patterns, access and equity concerns, and other pressures increasingly threaten Alaska salmon and the people who depend on them.The State of Alaska’s Salmon and People (SASAP) project State of Alaska’s Salmon and People (SASAP) projectis a collaboration of researchers, cultural leaders, and others working to bring together integrated, accurate, and up-to-date information that will help to support better salmon decision-making.</description>
+    </item>
+    
+  </channel>
+</rss>

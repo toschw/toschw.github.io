@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Tobias Schwoerer</title>
+    <link>https://schwoererresearch.org/publication_types/2/</link>
+    <description>Recent content in 2 on Tobias Schwoerer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 08 Oct 2016 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://schwoererresearch.org/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The value of whale watching to local communities in Baja, Mexico : A case study using applied economic rent theory</title>
+      <link>https://schwoererresearch.org/publication/naturebasedtourism/</link>
+      <pubDate>Sat, 08 Oct 2016 00:00:00 -0800</pubDate>
+      
+      <guid>https://schwoererresearch.org/publication/naturebasedtourism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invasive species management programs in Alaska: A survey of statewide expenditures, 2007 - 11</title>
+      <link>https://schwoererresearch.org/publication/managementexpenditures/</link>
+      <pubDate>Sun, 05 Oct 2014 00:00:00 -0800</pubDate>
+      
+      <guid>https://schwoererresearch.org/publication/managementexpenditures/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

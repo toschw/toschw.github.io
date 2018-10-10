@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elodea on Tobias Schwoerer</title>
+    <link>https://schwoererresearch.org/tags/elodea/</link>
+    <description>Recent content in Elodea on Tobias Schwoerer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 09 Oct 2018 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://schwoererresearch.org/tags/elodea/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Student project about Elodea entanglement on floatplanes</title>
+      <link>https://schwoererresearch.org/post/floatplane_cameras/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://schwoererresearch.org/post/floatplane_cameras/</guid>
+      <description>Under the guidance of UAA Computer Science Professor Dr. Frank Wittmer and myself and with a grant through the UAA&amp;rsquo;s Honor&amp;rsquo;s College, UAA student Devin Boyle is trying to better understand how floatplanes pick up the aquatic invasive plant Elodea spp.
+Elodea spp. (Elodea) is Alaska’s first submerged aquatic invasive plant. It was first discovered in urban parts of the state but is being introduced to remote water bodies by floatplanes such as Sucker and Alexander Lakes in the Mat-Su Borough.</description>
+    </item>
+    
+    <item>
+      <title>Human Dimensions of Aquatic Invasive Species in Alaska: Lessons Learned While Integrating Economics, Management and Biology to Incentivize Early Detection and Rapid Response</title>
+      <link>https://schwoererresearch.org/publication/elodealessonslearned/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://schwoererresearch.org/publication/elodealessonslearned/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aquatic invasive species risk management</title>
+      <link>https://schwoererresearch.org/project/elodea/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://schwoererresearch.org/project/elodea/</guid>
+      <description>Effective management of Elodea across large geographic areas relies on detection of new infestations and predictions of its spread. Elodea’s increasing rate-of-spread, combined with limited detection resources, requires agencies to formalize and justify increasingly costly response actions. By better understanding elodea’s invasion processes, multi-agency response coordination can be improved to eradicate or suppress this and other economically damaging invasive aquatic plants. In collaboration with agencies, our research team consisting of Dr.</description>
+    </item>
+    
+  </channel>
+</rss>
